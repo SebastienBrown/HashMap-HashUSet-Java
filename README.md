@@ -1,2 +1,2 @@
-# HashMap-HashUSet-Java
-Implementation of a HashUSet and HashMap in Java
+# HashMap-HashUSet
+Implementation of a HashUSet and HashMap
